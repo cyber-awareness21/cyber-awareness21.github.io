@@ -9,7 +9,7 @@ tags: [privacy, cybersecurity, data-protection]
 In today’s hyper-connected digital world, privacy is marketed as a fundamental right—but in reality, it has quietly faded into an illusion. We click “Accept All,” share personal moments online, use free apps without reading policies, and trust systems we barely understand. The truth is uncomfortable: privacy is already dead, and most of us are pretending it’s not.
 
 As cyber threats grow and data becomes the most valuable currency, companies like 
-[Codevirus Security Pvt. Ltd.](https://www.codevirussecurity.com), 
+[Codevirus Security Pvt. Ltd.](https://codevirussec.in/?srsltid=AfmBOoqNyc1PK3dKJdl67VK9RmJldNkWQovz-tbyVpC4lc9Hbpjkbfaq), 
 a **Top 10 Cyber Security Services Company in Lucknow**, continuously highlight the risks organizations and individuals face in this new digital reality.
 
 ## The Illusion of Digital Privacy
